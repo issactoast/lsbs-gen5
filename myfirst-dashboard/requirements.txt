@@ -1,0 +1,4 @@
+shiny
+seaborn
+pandas
+shinyswatch
